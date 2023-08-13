@@ -20,6 +20,6 @@ Throughout the project, I will leverage:
 
 - **Visualization:** Creating informative visualizations using tools like Matplotlib or Seaborn.
 
-- **Insights Presentation:** Summarizing my findings and insights using Jupyter Notebooks and Markdown.
+- **Insights Presentation:** Summarizing my findings and insights.
 
 Let's embark on this journey to uncover valuable customer insights and enhance decision-making through effective segmentation techniques!
