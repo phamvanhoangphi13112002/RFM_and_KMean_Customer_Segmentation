@@ -1,5 +1,6 @@
 # Customer Segmentation Project with RFM Analysis and K-Means Clustering
 View my full process of this project on my portfolio website: [Here](https://hoangphipv.id.vn/project3.html)
+
 Welcome to the **Customer Segmentation Project**! In this project, I delve into the world of data analysis to uncover insights about customer segments using **RFM Analysis** and apply **K-Means Clustering** for further segmentation.
 
 ## Project Overview
